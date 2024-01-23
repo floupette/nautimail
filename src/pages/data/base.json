@@ -1,0 +1,40 @@
+
+    [
+      {
+        "firm_name": "Mozilla",
+        "first_name": "Antoine",
+        "last_name": "PESTEL-ROPARS",
+        "email": "antoine.pestel.ropars@institutsolacroup.com",
+        "phone_number": "555-3478",
+        "password": "toortoor",
+        "last_notif": 1704286490,
+        "last_pick_up": 1704286510,
+        "has_mail": true,
+        "is_admin": false
+      },
+      {
+        "firm_name": "Microsoft",
+        "first_name": "Mathys",
+        "last_name": "GASNIER",
+        "email": "mathys.gasnier@institutsolacroup.com",
+        "phone_number": "555-4823",
+        "password": "codecode",
+        "last_notif": 1704286490,
+        "last_pick_up": 1704286510,
+        "has_mail": false,
+        "is_admin": false
+      },
+      {
+        "firm_name": "Cap Gemini",
+        "first_name": "Amy",
+        "last_name": "MICHOT",
+        "email": "amy.michot@institutsolacroup.com",
+        "phone_number": "555-1337",
+        "password": "cotcot",
+        "last_notif": 1704286490,
+        "last_pick_up": 1704286510,
+        "has_mail": false,
+        "is_admin": true
+      }
+    ]
+  
